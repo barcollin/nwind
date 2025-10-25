@@ -1,0 +1,14 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-color:#1d1d1d;
+    color: #f6f0ee;
+}
+
+h1{
+    color: azure;
+}
